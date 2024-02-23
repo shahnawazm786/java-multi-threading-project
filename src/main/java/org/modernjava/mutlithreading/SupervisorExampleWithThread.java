@@ -6,6 +6,17 @@ public class SupervisorExampleWithThread {
     }
 }
 class ParallelWorker1 extends Thread{
+    @Override
+    public void run(){
+        for(int i=1;i<=10;i++){
+            try{
+            Thread.sleep(100);
+            }catch (InterruptedException ie){
+                ie.printStackTrace();
+            }
+            System.out.println("The worker is executing task : "+i);
+        }
+    }
 
 }
 class ParallelWorker2 extends Thread{
