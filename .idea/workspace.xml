@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b35ca05-ccac-43ae-9a8b-285e561560d3" name="Changes" comment="Muulti Threading">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/lambdaexpression/HelloWorldInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/lambdaexpression/HelloWorldTradintional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java-multi-threading-project\src\main\java\org\modernjava" />
       <recent name="C:\java-multi-threading-project\src\main\java\org" />
     </key>
   </component>
@@ -296,7 +299,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708676643254</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Muulti Threading">
+      <created>1708676778778</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676778778</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Muulti Threading">
+      <created>1708676782261</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676782261</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
