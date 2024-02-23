@@ -2,7 +2,11 @@ package org.modernjava.mutlithreading;
 
 public class SupervisorExampleWithThread {
     public static void main(String[] args) {
+        ParallelWorker1 worker1=new ParallelWorker1();
+        ParallelWorker2 worker2=new ParallelWorker2();
 
+        worker1.run();
+        worker1.run();
     }
 }
 class ParallelWorker1 extends Thread{
