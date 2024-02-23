@@ -233,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708676537150</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Muulti Threading">
+      <created>1708676602545</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676602545</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Muulti Threading">
+      <created>1708676608056</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676608056</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
