@@ -1,4 +1,4 @@
-package org.mutlithreading;
+package org.modernjava.mutlithreading;
 
 public class SupervisorExample {
     public static void main(String[] args) throws InterruptedException {
