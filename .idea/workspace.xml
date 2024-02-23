@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b35ca05-ccac-43ae-9a8b-285e561560d3" name="Changes" comment="Muulti Threading" />
+    <list default="true" id="3b35ca05-ccac-43ae-9a8b-285e561560d3" name="Changes" comment="Muulti Threading">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708671693628</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Muulti Threading">
+      <created>1708675892238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708675892238</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
