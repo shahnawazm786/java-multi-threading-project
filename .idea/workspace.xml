@@ -53,7 +53,20 @@
       <recent name="C:\java-multi-threading-project\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloWorldTradintional">
+    <configuration name="HelloWorldTradintional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.modernjava.lambdaexpression.HelloWorldTradintional" />
+      <module name="java-multi-threading-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.modernjava.lambdaexpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SupervisorExampleWithThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.modernjava.mutlithreading.SupervisorExampleWithThread" />
       <module name="java-multi-threading-project" />
@@ -69,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorldTradintional" />
         <item itemvalue="Application.SupervisorExampleWithThread" />
       </list>
     </recent_temporary>
