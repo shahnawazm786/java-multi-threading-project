@@ -6,7 +6,7 @@ public class SupervisorExampleWithThread {
         ParallelWorker2 worker2=new ParallelWorker2();
 
         worker1.start();
-        worker1.run();
+        worker1.start();
     }
 }
 class ParallelWorker1 extends Thread{
