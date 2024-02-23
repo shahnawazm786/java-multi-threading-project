@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b35ca05-ccac-43ae-9a8b-285e561560d3" name="Changes" comment="Muulti Threading">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\java-multi-threading-project\src\main\java\org" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SupervisorExampleWithThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.modernjava.mutlithreading.SupervisorExampleWithThread" />
+      <module name="java-multi-threading-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.modernjava.mutlithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SupervisorExampleWithThread" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -261,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708676625303</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Muulti Threading">
+      <created>1708676639247</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676639247</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Muulti Threading">
+      <created>1708676643254</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676643254</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
