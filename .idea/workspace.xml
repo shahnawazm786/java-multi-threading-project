@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b35ca05-ccac-43ae-9a8b-285e561560d3" name="Changes" comment="Muulti Threading">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/modernjava/mutlithreading/SupervisorExampleWithThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +184,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708675892238</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Muulti Threading">
+      <created>1708676252173</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676252173</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Muulti Threading">
+      <created>1708676255795</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676255795</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Muulti Threading">
+      <created>1708676495719</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1708676495719</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
