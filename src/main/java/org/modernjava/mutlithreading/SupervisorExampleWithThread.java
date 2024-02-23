@@ -14,7 +14,7 @@ class ParallelWorker1 extends Thread{
             }catch (InterruptedException ie){
                 ie.printStackTrace();
             }
-            System.out.println("The worker is executing task : "+i);
+            System.out.println("The worker1 is executing task : "+i);
         }
     }
 
@@ -28,7 +28,7 @@ class ParallelWorker2 extends Thread{
             }catch (InterruptedException ie){
                 ie.printStackTrace();
             }
-            System.out.println("The worker is executing task : "+i);
+            System.out.println("The worker2 is executing task : "+i);
         }
     }
 
